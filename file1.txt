@@ -1,0 +1,3 @@
+echo "good evening"
+test
+withour paswd
